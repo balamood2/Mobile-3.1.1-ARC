@@ -1,7 +1,6 @@
 Moodle Mobile 2.x
 =================
-
-This is the primary repository of source code for the official Moodle Mobile app version 2.x.
+ARC fors for moodle mobile
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
